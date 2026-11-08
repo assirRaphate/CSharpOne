@@ -20,7 +20,6 @@
 
 
 
-Chapter 1 Summary: Introduction to Visual C#
 1.1 Objects
 Definition of Objects: An object is a program component that contains data (stored as properties or fields) and performs operations (via methods) to execute specific tasks. Most programming languages utilize object-oriented programming for this structure.
 
