@@ -22,7 +22,8 @@
 
 
 
-1.1 Objects
+### 1.1 Objects
+
 -- Definition of Objects: An object is a program component that contains data (stored as properties or fields) and performs operations (via methods) to execute specific tasks. Most programming languages utilize object-oriented programming for this structure.
 
 Controls: Objects that are visible within a graphical user interface (GUI) are known as controls (such as Labels, Buttons, and TextBoxes), whereas others (like Timers or OpenFileDialog objects) are invisible.
