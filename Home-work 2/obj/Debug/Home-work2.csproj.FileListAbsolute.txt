@@ -1,0 +1,10 @@
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\bin\Debug\Home-work2.exe.config
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\bin\Debug\Home-work2.exe
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\bin\Debug\Home-work2.pdb
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home-work2.csproj.AssemblyReference.cache
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home_work2.Form1.resources
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home_work2.Properties.Resources.resources
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home-work2.csproj.GenerateResource.cache
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home-work2.csproj.CoreCompileInputs.cache
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home-work2.exe
+C:\Users\sadri\Downloads\Home work 1\Home-work2\Home-work2\obj\Debug\Home-work2.pdb
